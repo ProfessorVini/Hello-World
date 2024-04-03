@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
     text-align: center;
     background-color: #305050;
     color: white;
+    font-family: "Roboto", sans-serif;
 }
 
 .titulo-secundario{
@@ -18,5 +21,5 @@ body {
 
 .corpo{
     border-top: 3px solid #808080;
-    border-bottom: 3px solid #808080;
+    border: 3px solid #808080;
 }
