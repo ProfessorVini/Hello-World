@@ -4,10 +4,19 @@ body {
     color: white;
 }
 
-.corpo{
-    border-top: 5cm;
-}
-
 .titulo-secundario{
     color: orange;
+}
+
+.footer{
+    display: grid;
+}
+
+.imagem{
+    width: 50%;
+}
+
+.corpo{
+    border-top: 3px solid #808080;
+    border-bottom: 3px solid #808080;
 }
