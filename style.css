@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #305050;
+    color: white;
+}
+
+.corpo{
+    border-top: 5cm;
+}
+
+.titulo-secundario{
+    color: orange;
+}
